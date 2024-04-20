@@ -1,0 +1,12 @@
+pip
+v20
+git+https://github.com/yhilpisch/tpqoa.git
+pandas
+numpy
+matplotlib
+tpqoa
+tensorflow
+keras
+prophet
+tqdm
+ipywidgets
