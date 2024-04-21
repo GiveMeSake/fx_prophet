@@ -2,6 +2,7 @@ pip
 v20
 git+https://github.com/yhilpisch/tpqoa.git
 pandas
+pandas_ta
 numpy
 matplotlib
 tpqoa
