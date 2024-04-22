@@ -11,3 +11,4 @@ keras
 prophet
 tqdm
 ipywidgets
+scikit-learn
