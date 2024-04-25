@@ -12,3 +12,4 @@ prophet
 tqdm
 ipywidgets
 scikit-learn
+yfinance
