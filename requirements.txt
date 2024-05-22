@@ -13,3 +13,4 @@ tqdm
 ipywidgets
 scikit-learn
 yfinance
+trading-ig[pandas,munch,tenacity]
