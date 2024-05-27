@@ -10,6 +10,7 @@ tensorflow
 keras
 prophet
 tqdm
+pytz
 ipywidgets
 scikit-learn
 yfinance
